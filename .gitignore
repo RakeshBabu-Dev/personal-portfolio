@@ -1,0 +1,22 @@
+# Reference files
+reference/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies (if using npm/node)
+node_modules/
+package-lock.json
+
+# Build/dist folders (if any)
+dist/
+build/
